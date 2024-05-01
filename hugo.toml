@@ -4,6 +4,8 @@ title = 'Timothy Elems'
 author = "timothyelems"
 theme = "saral"
 
+favicon = "static/favicon.ico"
+
 [params]
     logoText = "Timothy Elems"
     isBlogFocused = true
