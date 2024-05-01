@@ -11,6 +11,8 @@ favicon = "static/favicon.ico"
     isBlogFocused = true
     showHeroImage = true
     showResumeButton = true
+    subtitle = 'Problem Solver... Mainly With Code'
+
     
 [menu]
   # [[menu.main]]
