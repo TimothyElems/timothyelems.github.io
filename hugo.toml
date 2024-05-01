@@ -42,7 +42,7 @@ favicon = "static/favicon.ico"
     name = "Contact"
     pre = "contact"
     url = "/contact/"
-    weight = 50
+    weight = 30
   [[menu.main]]
    name = "Journey"
    pre = "journey"
