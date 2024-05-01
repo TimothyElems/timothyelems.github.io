@@ -5,5 +5,5 @@ draft = false
 +++
 
 # Khalil Mack
-- end of season evals
-- add picture and youtube vidja
+- end of season, players vote
+- use pictures and videos
