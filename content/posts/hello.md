@@ -6,7 +6,7 @@ draft = false
 
 # Hello!
 _Hello dear friend!   
-Here I write any and everything!_
+Here I write anything and everything!_
 
 I'll leave you with a quote
 > My monkey and I have something to hide.  
