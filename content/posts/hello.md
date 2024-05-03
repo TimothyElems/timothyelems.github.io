@@ -1,13 +1,13 @@
 +++
 title = 'Hello World'
-date = 2024-05-01
+date = 2024-05-03
 draft = false
 +++
 
 # Hello!
-
-Here I write any and everything!  
+_Hello dear friend!   
+Here I write any and everything!_
 
 I'll leave you with a quote
-> My monkey and I have something to hide.
-> James Donald Forbes Mccann
+> My monkey and I have something to hide.  
+> \- James Donald Forbes Mccann
