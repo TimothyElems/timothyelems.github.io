@@ -6,8 +6,15 @@
     <description>Recent content in Khalils on Timothy Elems</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2024 22:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 22:04:12 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/khalil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1</title>
+      <link>http://localhost:1313/khalil/01-calc/</link>
+      <pubDate>Sat, 03 Aug 2024 22:04:12 +0000</pubDate>
+      <guid>http://localhost:1313/khalil/01-calc/</guid>
+      <description>Calculator </description>
+    </item>
     <item>
       <title>0</title>
       <link>http://localhost:1313/khalil/000-km/</link>

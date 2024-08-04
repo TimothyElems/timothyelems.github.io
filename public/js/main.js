@@ -29,7 +29,7 @@ console.log(resumeButton);
   for(let button of resumeButton){
     button.addEventListener("click",() => {
       window.open(
-        "https://drive.google.com/file/d/14RAXZV6gs-0wg2ZfMfqDbH-EHHMlFMdC/view?usp=sharing", "blank"
+        "https://drive.google.com/file/d/1ZNzz3B8XqdbfeYRvdSsuPPD5UegGoIa1/view?usp=sharing", "blank"
         );
     })
   }
