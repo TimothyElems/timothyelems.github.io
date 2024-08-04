@@ -4,7 +4,7 @@
     <title>Timothy Elems</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Timothy Elems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 May 2024 22:04:12 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,21 @@
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description>Hello! Hello dear friend!&#xA;Here I write anything and everything!</description>
+      <description>Hello! Hello dear friend!&#xA;Here I write anything and everything!&#xA;I&amp;rsquo;ll leave you with a quote&#xA;Hello!&#xA;- James Donald Forbes Mccann</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Get in Touch! 👋 Hello there, fellow tech enthusiast! 🚀&#xA;I’m thrilled that you’ve dropped by. Whether you have a burning question, an exciting project idea, or just want to chat about all things code, I’m all ears.&#xA;Let’s make this the start of a fantastic conversation. Feel free to reach out, and I’ll get back to you as soon as I can.&#xA;Cheers to the future collaborations and coding adventures!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/contact/</guid>
+      <description>Get in Touch! 👋 Hello there, fellow tech enthusiast! 🚀&#xA;I’m thrilled that you’ve dropped by. Whether you have a burning question, an exciting project idea, or just want to chat about all things code, I’m all ears.&#xA;Let’s make this the start of a fantastic conversation. Feel free to reach out, and I’ll get back to you as soon as I can.&#xA;Cheers to the future collaborations and coding adventures!</description>
     </item>
   </channel>
 </rss>
