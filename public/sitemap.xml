@@ -2,30 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/khalil/01-calc/</loc>
+    <loc>//localhost:1313/melhor/</loc>
+    <lastmod>2024-12-06T01:33:41+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-12-06T01:33:41+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/melhor/luna-001/</loc>
+    <lastmod>2024-12-05T23:49:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/khalil/01-calc/</loc>
     <lastmod>2024-08-03T22:04:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/khalil/</loc>
+    <loc>//localhost:1313/khalil/</loc>
     <lastmod>2024-08-03T22:04:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-03T22:04:12+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/khalil/000-km/</loc>
+    <loc>//localhost:1313/khalil/000-km/</loc>
     <lastmod>2024-05-04T22:04:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
+    <loc>//localhost:1313/melhor/hello/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/contact/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

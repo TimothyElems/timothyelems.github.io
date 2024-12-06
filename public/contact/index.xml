@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contacts on Timothy Elems</title>
-    <link>http://localhost:1313/contact/</link>
-    <description>Recent content in Contacts on Timothy Elems</description>
+    <title>timothy elems</title>
+    <link>//localhost:1313/contact/</link>
+    <description>Recent content on timothy elems</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/contact/</guid>
-      <description>Get in Touch! 👋 Hello there, fellow tech enthusiast! 🚀&#xA;I’m thrilled that you’ve dropped by. Whether you have a burning question, an exciting project idea, or just want to chat about all things code, I’m all ears.&#xA;Let’s make this the start of a fantastic conversation. Feel free to reach out, and I’ll get back to you as soon as I can.&#xA;Cheers to the future collaborations and coding adventures!</description>
-    </item>
+    <atom:link href="//localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
