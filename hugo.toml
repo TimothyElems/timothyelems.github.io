@@ -1,6 +1,6 @@
-# baseURL = 'https://timothyelems.github.io/'
+baseURL = 'https://timothyelems.github.io/'
 # baseURL = 'http://localhost:1313'
-baseURL = 'localhost'
+# baseURL = 'localhost'
 languageCode = 'en-us'
 title = 'timothy elems'
 author = "timothyelems"
