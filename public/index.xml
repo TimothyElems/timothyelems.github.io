@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timothy Elems on timothy elems</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Timothy Elems on timothy elems</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Dec 2024 23:49:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚀🌚 1</title>
-      <link>//localhost:1313/melhor/luna-001/</link>
+      <link>/melhor/luna-001/</link>
       <pubDate>Thu, 05 Dec 2024 23:49:00 +0000</pubDate>
-      <guid>//localhost:1313/melhor/luna-001/</guid>
+      <guid>/melhor/luna-001/</guid>
       <description>&lt;h1 id=&#34;luna&#34;&gt;luna&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;tldr;&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;i made a browser so i can call my ex and win her back&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;to fully ascend to senior swe status, i have created a blog documenting my current projects, and i&amp;rsquo;m writing in the god-forsaken &lt;code&gt;sentence.lower(obviously-python)&lt;/code&gt;. this starts my journey of learning rust &amp;ndash;notice i did not say &amp;ldquo;becoming a rustacean&amp;rdquo;. python will forever be in my heart, and until (if ever) zig changes its string primitive, it&amp;rsquo;ll remain only in my mind.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1</title>
-      <link>//localhost:1313/khalil/01-calc/</link>
-      <pubDate>Sat, 03 Aug 2024 22:04:12 +0000</pubDate>
-      <guid>//localhost:1313/khalil/01-calc/</guid>
-      <description>&lt;h1 id=&#34;calculator&#34;&gt;Calculator&lt;/h1&gt;</description>
-    </item>
-    <item>
       <title>0</title>
-      <link>//localhost:1313/khalil/000-km/</link>
+      <link>/khalil/000-km/</link>
       <pubDate>Sat, 04 May 2024 22:04:12 +0000</pubDate>
-      <guid>//localhost:1313/khalil/000-km/</guid>
+      <guid>/khalil/000-km/</guid>
       <description>&lt;h1 id=&#34;khalil-mack&#34;&gt;Khalil Mack&lt;/h1&gt;&#xA;&lt;p&gt;The Super Bowl has just occurred. One team is elated, one feels defeated, 30 are somewhere on a spectrum of &amp;ldquo;come on boys; next year is our year,  for sure&amp;rdquo;, and &amp;ldquo;hey, we had no hope this year but at least we get great picks at the draft!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;While the season is still on everyone&amp;rsquo;s minds, the League gives its players a questionnaire with a simple question: name the top 100 players in the league this season!&lt;/p&gt;</description>
     </item>
     <item>
       <title>👋</title>
-      <link>//localhost:1313/melhor/hello/</link>
+      <link>/melhor/hello/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/melhor/hello/</guid>
+      <guid>/melhor/hello/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Hello dear friend!&lt;br&gt;&#xA;Here I write anything and everything!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll leave you with a quote&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello!&lt;br&gt;&#xA;- James Donald Forbes Mccann&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
