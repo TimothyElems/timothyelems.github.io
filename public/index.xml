@@ -10,9 +10,9 @@
     <atom:link href="https://timothyelems.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚀🌚 1</title>
-      <link>https://timothyelems.github.io/melhor/luna-001/</link>
+      <link>https://timothyelems.github.io/melhor/</link>
       <pubDate>Thu, 05 Dec 2024 23:49:00 +0000</pubDate>
-      <guid>https://timothyelems.github.io/melhor/luna-001/</guid>
+      <guid>https://timothyelems.github.io/melhor/</guid>
       <description>&lt;h1 id=&#34;luna&#34;&gt;luna&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;tldr;&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;i made a browser so i can call my ex and win her back&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;to fully ascend to senior swe status, i have created a blog documenting my current projects, and i&amp;rsquo;m writing in the god-forsaken &lt;code&gt;sentence.lower(obviously-python)&lt;/code&gt;. this starts my journey of learning rust &amp;ndash;notice i did not say &amp;ldquo;becoming a rustacean&amp;rdquo;. python will forever be in my heart, and until (if ever) zig changes its string primitive, it&amp;rsquo;ll remain only in my mind.&lt;/p&gt;</description>
     </item>
     <item>
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>👋</title>
-      <link>https://timothyelems.github.io/melhor/hello/</link>
+      <link>https://timothyelems.github.io/melhor/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://timothyelems.github.io/melhor/hello/</guid>
+      <guid>https://timothyelems.github.io/melhor/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Hello dear friend!&lt;br&gt;&#xA;Here I write anything and everything!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll leave you with a quote&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello!&lt;br&gt;&#xA;- James Donald Forbes Mccann&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

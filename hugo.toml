@@ -1,15 +1,16 @@
 baseURL = 'https://timothyelems.github.io/'
-# baseURL = 'http://localhost:1313'
 # baseURL = 'localhost'
-# baseURL = "/"
 languageCode = 'en-us'
 title = 'timothy elems'
 author = "timothyelems"
 # theme = "papermod"
 # theme = "saral"
 theme = "hello-friend-ng"
-paginate = 10
+# pagination.pagerSize = 10
 
+
+[permalinks]
+  melhor = "/melhor/"
 
 [pagination]
   disableAliases = false
@@ -144,6 +145,8 @@ disableHugoGeneratorInject = false
 
 [markup]
   [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.passthrough]
         [markup.goldmark.extensions.passthrough.delimiters]
@@ -186,8 +189,8 @@ disableHugoGeneratorInject = false
   [module]
   [module.hugoVersion]
     extended = true
-    min = "0.92.0"
-    max = "0.123."
+    min = "0.123.0"
+    # max = "0.123.0"
 
 [[params.social]]
     url = "https://x.com/timothyelems"
