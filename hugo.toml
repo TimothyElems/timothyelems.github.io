@@ -7,7 +7,7 @@ author = "timothyelems"
 # theme = "papermod"
 # theme = "saral"
 theme = "hello-friend-ng"
-
+paginate = 10
 
 
 [pagination]
