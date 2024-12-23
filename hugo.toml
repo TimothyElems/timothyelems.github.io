@@ -9,8 +9,8 @@ theme = "hello-friend-ng"
 # pagination.pagerSize = 10
 
 
-[permalinks]
-  melhor = "/melhor/"
+# [permalinks]
+  # melhor = "/melhor/"
 
 [pagination]
   disableAliases = false
