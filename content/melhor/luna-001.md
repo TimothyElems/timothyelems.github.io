@@ -3,7 +3,6 @@ title = '🚀🌚 1'
 date = 2024-12-05T23:49:00Z
 draft = false
 read_time = true
-aliases = ["/melhor/luna-001.md"]
 +++
 
 # luna
