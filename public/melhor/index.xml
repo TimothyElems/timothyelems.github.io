@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>melhorar: to improve on timothy elems</title>
-    <link>https://timothyelems.github.io/melhor/</link>
+    <link>http://localhost:1313/melhor/</link>
     <description>Recent content in melhorar: to improve on timothy elems</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 23:49:00 +0000</lastBuildDate>
-    <atom:link href="https://timothyelems.github.io/melhor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 06:55:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/melhor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀🌚 2</title>
+      <link>http://localhost:1313/melhor/luna-002/</link>
+      <pubDate>Mon, 30 Jun 2025 06:55:23 +0000</pubDate>
+      <guid>http://localhost:1313/melhor/luna-002/</guid>
+      <description>&lt;h1 id=&#34;windows-in-my-crib&#34;&gt;windows in my crib&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;tldr;&lt;/strong&gt;&#xA;&lt;em&gt;window creation in zig made me sad, so i went with rust instead&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;a-very-good-place-to-start&#34;&gt;a very good place to start&lt;/h3&gt;&#xA;&lt;p&gt;let&amp;rsquo;s start from the very beginning, and put a smile on julie andrews&amp;rsquo; face.&#xA;i set out to make this a &lt;a href=&#34;&#34;&gt;rust&lt;/a&gt; app, then promptly got whispers of &lt;a href=&#34;&#34;&gt;zig&lt;/a&gt;.&#xA;heard about ghostty, got interested, cloned, reviewed, and got sad. &lt;a href=&#34;https://ghostty.org/&#34;&gt;ghostty&lt;/a&gt;, a terminal emulator written in &lt;a href=&#34;https://ziglang.org/documentation/0.14.1/&#34;&gt;zig&lt;/a&gt;&#xA;(zig resources: &lt;a href=&#34;https://pedropark99.github.io/zig-book/&#34;&gt;book&lt;/a&gt;, &lt;a href=&#34;https://www.openmymind.net/learning_zig/&#34;&gt;karl seguin&lt;/a&gt;, &lt;a href=&#34;https://ziglings.org/&#34;&gt;ziglings&lt;/a&gt;)&#xA;by &lt;a href=&#34;https://mitchellh.com/&#34;&gt;mitch hashimoto&lt;/a&gt; (he flies a &lt;a href=&#34;https://cirrusaircraft.com/aircraft/vision-jet/&#34;&gt;cirrus&lt;/a&gt;, by the way!!!) is currently avaialable for linux&#xA;(wayland, i think), and mac.&#xA;i looked around to see how window creation was handled and found it was handled natively.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🚀🌚 1</title>
-      <link>https://timothyelems.github.io/melhor/</link>
+      <link>http://localhost:1313/melhor/luna-001/</link>
       <pubDate>Thu, 05 Dec 2024 23:49:00 +0000</pubDate>
-      <guid>https://timothyelems.github.io/melhor/</guid>
+      <guid>http://localhost:1313/melhor/luna-001/</guid>
       <description>&lt;h1 id=&#34;luna&#34;&gt;luna&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;tldr;&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;i made a browser so i can call my ex and win her back&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;to fully ascend to senior swe status, i have created a blog documenting my current projects, and i&amp;rsquo;m writing in the god-forsaken &lt;code&gt;sentence.lower(obviously-python)&lt;/code&gt;. this starts my journey of learning rust &amp;ndash;notice i did not say &amp;ldquo;becoming a rustacean&amp;rdquo;. python will forever be in my heart, and until (if ever) zig changes its string primitive, it&amp;rsquo;ll remain only in my mind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>👋</title>
-      <link>https://timothyelems.github.io/melhor/</link>
+      <link>http://localhost:1313/melhor/hello/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://timothyelems.github.io/melhor/</guid>
+      <guid>http://localhost:1313/melhor/hello/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Hello dear friend!&lt;br&gt;&#xA;Here I write anything and everything!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll leave you with a quote&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello!&lt;br&gt;&#xA;- James Donald Forbes Mccann. Catamaran Ho!!!&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

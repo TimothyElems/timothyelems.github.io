@@ -183,7 +183,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
    name = "viagem"
   #  pre = "journey"
-   url = "https://timothyelems.github.io/resume/"
+   url = "https://timothyelems.github.io/resume"
    weight = 40
 
 

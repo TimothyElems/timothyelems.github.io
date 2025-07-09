@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="">
+<meta name="description" content="windows in my crib tldr; window creation in zig made me sad, so i went with rust instead
+a very good place to start let&rsquo;s start from the very beginning, and put a smile on julie andrews&rsquo; face. i set out to make this a rust app, then promptly got whispers of zig. heard about ghostty, got interested, cloned, reviewed, and got sad. ghostty, a terminal emulator written in zig (zig resources: book, karl seguin, ziglings) by mitch hashimoto (he flies a cirrus, by the way!!!) is currently avaialable for linux (wayland, i think), and mac. i looked around to see how window creation was handled and found it was handled natively.
+" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="http://localhost:1313/melhor/luna-002/" />
+
+
+    <title>
+        
+            🚀🌚 2 :: timothy elems 
+        
+    </title>
+
+
+
+
+
+  <link rel="stylesheet" href="/main.min.244183cde1a38e0b08f82c11791181288f9aac1cc9618cd6f4e9e7710c5768ba.css" integrity="sha256-JEGDzeGjjgsI&#43;CwReRGBKI&#43;arBzJYYzW9OnncQxXaLo=" crossorigin="anonymous">
+
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+
+  <meta itemprop="name" content="🚀🌚 2">
+  <meta itemprop="description" content="windows in my crib tldr; window creation in zig made me sad, so i went with rust instead
+a very good place to start let’s start from the very beginning, and put a smile on julie andrews’ face. i set out to make this a rust app, then promptly got whispers of zig. heard about ghostty, got interested, cloned, reviewed, and got sad. ghostty, a terminal emulator written in zig (zig resources: book, karl seguin, ziglings) by mitch hashimoto (he flies a cirrus, by the way!!!) is currently avaialable for linux (wayland, i think), and mac. i looked around to see how window creation was handled and found it was handled natively.">
+  <meta itemprop="datePublished" content="2025-06-30T06:55:23+00:00">
+  <meta itemprop="dateModified" content="2025-06-30T06:55:23+00:00">
+  <meta itemprop="wordCount" content="169">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="🚀🌚 2">
+  <meta name="twitter:description" content="windows in my crib tldr; window creation in zig made me sad, so i went with rust instead
+a very good place to start let’s start from the very beginning, and put a smile on julie andrews’ face. i set out to make this a rust app, then promptly got whispers of zig. heard about ghostty, got interested, cloned, reviewed, and got sad. ghostty, a terminal emulator written in zig (zig resources: book, karl seguin, ziglings) by mitch hashimoto (he flies a cirrus, by the way!!!) is currently avaialable for linux (wayland, i think), and mac. i looked around to see how window creation was handled and found it was handled natively.">
+
+
+
+    <meta property="og:url" content="http://localhost:1313/melhor/luna-002/">
+  <meta property="og:site_name" content="timothy elems">
+  <meta property="og:title" content="🚀🌚 2">
+  <meta property="og:description" content="windows in my crib tldr; window creation in zig made me sad, so i went with rust instead
+a very good place to start let’s start from the very beginning, and put a smile on julie andrews’ face. i set out to make this a rust app, then promptly got whispers of zig. heard about ghostty, got interested, cloned, reviewed, and got sad. ghostty, a terminal emulator written in zig (zig resources: book, karl seguin, ziglings) by mitch hashimoto (he flies a cirrus, by the way!!!) is currently avaialable for linux (wayland, i think), and mac. i looked around to see how window creation was handled and found it was handled natively.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="melhor">
+    <meta property="article:published_time" content="2025-06-30T06:55:23+00:00">
+    <meta property="article:modified_time" content="2025-06-30T06:55:23+00:00">
+
+
+
+
+
+
+    <meta property="article:published_time" content="2025-06-30 06:55:23 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text ">
+                timothy elems</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="/melhor/">melhor</a></li><li><a href="/contact/">tocar</a></li><li><a href="https://timothyelems.github.io/resume">viagem</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="http://localhost:1313/melhor/luna-002/">🚀🌚 2</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <h1 id="windows-in-my-crib">windows in my crib</h1>
+<p><strong>tldr;</strong>
+<em>window creation in zig made me sad, so i went with rust instead</em></p>
+<h3 id="a-very-good-place-to-start">a very good place to start</h3>
+<p>let&rsquo;s start from the very beginning, and put a smile on julie andrews&rsquo; face.
+i set out to make this a <a href="">rust</a> app, then promptly got whispers of <a href="">zig</a>.
+heard about ghostty, got interested, cloned, reviewed, and got sad. <a href="https://ghostty.org/">ghostty</a>, a terminal emulator written in <a href="https://ziglang.org/documentation/0.14.1/">zig</a>
+(zig resources: <a href="https://pedropark99.github.io/zig-book/">book</a>, <a href="https://www.openmymind.net/learning_zig/">karl seguin</a>, <a href="https://ziglings.org/">ziglings</a>)
+by <a href="https://mitchellh.com/">mitch hashimoto</a> (he flies a <a href="https://cirrusaircraft.com/aircraft/vision-jet/">cirrus</a>, by the way!!!) is currently avaialable for linux
+(wayland, i think), and mac.
+i looked around to see how window creation was handled and found it was handled natively.</p>
+<h3 id="this-is-where-we-are">this is where we are</h3>
+<p>i have made the executive decision to stick with tauri + <a href="https://svelte.dev/">svelte</a>. i would have gone with react, but i wanted something much lighter; bonus for being declarative.</p>
+<p>sempre💙</p>
+<p><a href="https://github.com/rbsco/luna">luna</a><br>
+<em>in an alternate universe, this is the story of a man that would rather build a new browser than close old tabs</em></p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+            
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2025</span>
+            <span><a href="http://localhost:1313/">timothy elems</a></span>
+            <span></span>
+            <span><a href="http://localhost:1313/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+            
+        </div>
+    </div>
+    
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>powered by <a href="http://gohugo.io">hugo</a></span>
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="/bundle.min.e89fda0f29b95d33f6f4224dd9e5cf69d84aff3818be2b0d73e731689cc374261b016d17d46f8381962fb4a1577ba3017b1f23509d894f6e66431f988c00889e.js" integrity="sha512-6J/aDym5XTP29CJN2eXPadhK/zgYvisNc&#43;cxaJzDdCYbAW0X1G&#43;DgZYvtKFXe6MBex8jUJ2JT25mQx&#43;YjACIng=="></script>
+
+
+
+
+    </body>
+</html>
